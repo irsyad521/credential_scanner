@@ -1,0 +1,22 @@
+# Direktori cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Hasil scan atau output yang tidak perlu di-track
+result/
+
+# Virtual environment
+venv/
+.venv/
+
+# Konfigurasi editor dan sistem
+.vscode/
+.idea/
+
+# File log & debugging
+*.log
+debug.log
+
+# File Git yang sebaiknya diabaikan
+.git/
