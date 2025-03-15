@@ -30,12 +30,5 @@ Example for scanning system logs:
 python3 main.py /var/logs --domain corporate.net
 ```
 
-## 📂 Directory Structure
-```
-credential_scanner/
-├── result/            # Directory where detected credentials are stored
-├── main.py            # Main script
-├── requirements.txt   # Required dependencies
-├── README.md          # Documentation
-```
+
 
